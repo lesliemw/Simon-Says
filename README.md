@@ -17,6 +17,6 @@ HTML
 CSS
 JavaScript
 Jquery
-..and a lot of help from stack overflow.
+...and a lot of help from stack overflow.
 
-**This game was made as part of a coding course. While I did check my answers at the end, all code is my own**
+**This game was made as part of a coding course, therefore the styling and the idea of the game was not my own. However, while I did check my answers at the end, all code IS my own**
